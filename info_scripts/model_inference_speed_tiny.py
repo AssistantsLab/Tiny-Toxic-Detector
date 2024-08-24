@@ -1,6 +1,7 @@
 #
-# This is an info script used in the Tiny-Toxic-Detector paper.
-# As it uses a custom architecture this needs to be defined as well which sets it apart from the other script.
+# This info script measures inference speed. It is not intended to replicate the exact numbers from the paper,
+# as these measurements are highly machine-specific. Any correlations drawn between models may be slightly skewed,
+# as your machine may also be performing other tasks.
 #
 # No configuration necessary.
 #
