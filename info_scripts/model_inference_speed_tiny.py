@@ -74,7 +74,7 @@ class TinyTransformerForSequenceClassification(PreTrainedModel):
         outputs = self.transformer(input_ids)
         return {"logits": outputs}
 
-# Function to load the TinyTransformer model and tokenizer
+"""Function to load the TinyTransformer model and tokenizer"""
 def load_model_and_tokenizer():
     config = TinyTransformerConfig.from_pretrained("AssistantsLab/Tiny-Toxic-Detector")
     model = TinyTransformerForSequenceClassification.from_pretrained("AssistantsLab/Tiny-Toxic-Detector", config=config)
