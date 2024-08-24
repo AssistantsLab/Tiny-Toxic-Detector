@@ -2,6 +2,8 @@
 # This is an example for how to run inference on the Tiny-Toxic-Detector
 # As it uses a custom architecture this needs to be defined as well.
 #
+# No configuration necessary unless you want to incorporate this in a separate system.
+#
 # Author: Michielo
 #
 
