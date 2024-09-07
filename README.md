@@ -1,5 +1,5 @@
 # Tiny-Toxic-Detector
-All benchmarking and information scripts used in the Tiny-Toxic-Detector paper.
+All benchmarking and information scripts used in the [Tiny-Toxic-Detector paper}(https://doi.org/10.48550/arXiv.2409.02114).
 
 
 ### Example
